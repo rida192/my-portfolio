@@ -19,8 +19,8 @@ const About = () => {
           <div>
             <p>
               I am passionate about building excellent responsive web
-              application. I specialize in creating websites for clients ranging
-              from individuals and small-businesses all the way to large
+              application. I am specialized in creating websites for clients
+              ranging from individuals and small-businesses all the way to large
               enterprise corporations.
             </p>
           </div>
