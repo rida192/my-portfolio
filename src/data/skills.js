@@ -5,6 +5,9 @@ import javascript from "../assets/javascript.png";
 import tailwind from "../assets/tailwind.png";
 import react from "../assets/react.png";
 import redux from "../assets/redux.png";
+import next from "../assets/next1.png";
+import typescript from "../assets/typescript.jpg";
+import nextauth from "../assets/nextauth.png";
 
 export const mySkills = [
   {
@@ -34,12 +37,27 @@ export const mySkills = [
   },
   {
     id: 6,
-    name: "REACT",
+    name: "REACT.JS",
     image: react,
   },
   {
     id: 7,
     name: "REDUX",
     image: redux,
+  },
+  {
+    id: 8,
+    name: "NEXT.JS",
+    image: next,
+  },
+  {
+    id: 9,
+    name: "NEXTAUTH.JS",
+    image: nextauth,
+  },
+  {
+    id: 10,
+    name: "TYPESCRIPT",
+    image: typescript,
   },
 ];
