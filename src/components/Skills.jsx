@@ -14,7 +14,7 @@ const Skills = () => {
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-4  gap-8 text-center py-8 mt-8">
-          {mySkills.map((skill) => (
+          {mySkills?.map((skill) => (
             <div
               key={skill.id}
               className=" flex flex-col items-center justify-center newM hover:scale-90 duration-300 p-2 pt-8 rounded-lg "

@@ -3,6 +3,7 @@ import intro from "../assets/projects/2.jpg";
 import loop from "../assets/projects/3.jpg";
 import interactive from "../assets/projects/4.jpg";
 import moviefy from "../assets/projects/5.png";
+import news from "../assets/projects/6.jpg";
 
 export const projects = [
   {
@@ -40,5 +41,12 @@ export const projects = [
     image: interactive,
     github: "https://github.com/rida192/Interactive-card-details-form",
     live: "https://interactive-card-12.netlify.app",
+  },
+  {
+    id: 6,
+    name: "News homepage",
+    image: news,
+    github: "https://github.com/rida192/news-homepage-main",
+    live: "https://news-homepage-main-sections.netlify.app",
   },
 ];

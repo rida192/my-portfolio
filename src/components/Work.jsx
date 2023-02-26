@@ -2,10 +2,6 @@ import React from "react";
 import { projects } from "../data/projects.js";
 
 const Work = () => {
-  // projects file
-
-  //setProject(data);
-
   return (
     <div name="work" className="w-full md:h-full pt-20 ">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
