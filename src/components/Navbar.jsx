@@ -114,6 +114,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-white "
               href="https://github.com/rida192/"
+              target="_blank"
             >
               Github <FaGithub size={30} />
             </a>
@@ -122,6 +123,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-white "
               href="mailto:rida19974@gmail.com"
+              target="_blank"
             >
               Email <HiOutlineMail size={30} />
             </a>
