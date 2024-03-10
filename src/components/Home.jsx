@@ -1,3 +1,5 @@
+import { Link } from "react-scroll";
+
 const Home = () => {
   return (
     <div name="home" className="w-full h-screen">
@@ -14,12 +16,17 @@ const Home = () => {
           applications.
         </p>
         <div className="flex items-center justify-center sm:justify-start">
-          <button className="text-[#222] my-button border-[#222] px-6 py-3 my-2 flex items-center rounded-lg transition-all duration-300">
-            View Work
+          <Link
+            to="about"
+            smooth={true}
+            duration={800}
+            className="cursor-pointer text-[#222] my-button border-[#222] px-6 py-3 my-2 flex items-center rounded-lg transition-all duration-300"
+          >
+            About me
             <span className=" duration-300 index">
-              <span className="ml-3 ">👇🏼</span>
+              <span className="ml-3 text-xl">👇🏼</span>
             </span>
-          </button>
+          </Link>
         </div>
       </div>
     </div>
