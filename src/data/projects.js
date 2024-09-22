@@ -10,8 +10,8 @@ export const projects = [
     id: 1,
     name: "Moviefy app for movies",
     image: moviefy,
-    github: "https://github.com/rida192/Moviefy",
-    live: "https://moviefy-application.vercel.app/",
+    github: "https://github.com/rida192/Moviefy-next.js",
+    live: "https://moviefy-webapp.vercel.app/",
   },
   {
     id: 2,

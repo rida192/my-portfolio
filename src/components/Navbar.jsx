@@ -3,7 +3,7 @@ import { FaBars, FaTimes, FaGithub } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
-import CV from "../assets/myCv.pdf";
+import CV from "../assets/Mortada_Emad_Frontend_CV.pdf";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

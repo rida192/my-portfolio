@@ -8,7 +8,7 @@ const Home = () => {
         <p className="mt-4">Hi there, my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold ">Mortada Emad</h1>
         <h2 className="text-4xl sm:text-7xl font-bold ">
-          I'm a Junior Front-End Developer.
+          I'm a Front-End Developer.
         </h2>
         <p className=" py-4 max-w-[700px]">
           I’m a Front-End Developer specializing in building exceptional digital
