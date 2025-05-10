@@ -4,6 +4,7 @@ import loop from "../assets/projects/3.jpg";
 import interactive from "../assets/projects/4.jpg";
 import moviefy from "../assets/projects/5.png";
 import news from "../assets/projects/6.jpg";
+import messaging from "../assets/projects/7.png";
 
 export const projects = [
   {
@@ -15,6 +16,13 @@ export const projects = [
   },
   {
     id: 2,
+    name: "Messaging App",
+    image: messaging,
+    github: "https://github.com/rida192/messaging-app.git",
+    live: "",
+  },
+  {
+    id: 3,
     name: "Insure Landing page",
     image: insure,
     github:
@@ -22,28 +30,28 @@ export const projects = [
     live: "https://insure-3.netlify.app",
   },
   {
-    id: 3,
+    id: 4,
     name: "Intro Section with dropdown navigation",
     image: intro,
     github: "https://github.com/rida192/Intro-section-with-dropdown-navigation",
     live: "https://intro-section-12.netlify.app",
   },
   {
-    id: 4,
+    id: 5,
     name: "Loopstudios Landing Page",
     image: loop,
     github: "https://github.com/rida192/Loopstudios-landing-page",
     live: "https://loop-studio1.netlify.app",
   },
   {
-    id: 5,
+    id: 6,
     name: "Interactive card details",
     image: interactive,
     github: "https://github.com/rida192/Interactive-card-details-form",
     live: "https://interactive-card-12.netlify.app",
   },
   {
-    id: 6,
+    id: 7,
     name: "News homepage",
     image: news,
     github: "https://github.com/rida192/news-homepage-main",
