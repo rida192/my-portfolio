@@ -20,7 +20,7 @@ const Work = () => {
               key={i}
               style={{
                 backgroundImage: `url(${project.image})`,
-                backgroundSize: "cover",
+                backgroundSize: "contain",
               }}
               className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
