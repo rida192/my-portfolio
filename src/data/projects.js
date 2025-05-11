@@ -19,7 +19,7 @@ export const projects = [
     name: "Messaging App",
     image: messaging,
     github: "https://github.com/rida192/messaging-app.git",
-    live: "#",
+    live: "https://github.com/rida192/messaging-app.git",
   },
   {
     id: 3,
